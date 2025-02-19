@@ -3,7 +3,7 @@
 - 🤝 I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: 
   - Email: m.abdullah.asif20111@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/mr-abdullah-94baa022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  - LinkedIn: www.linkedin.com/in/muhammad-abdullah-web-dev
 - 🏳️ Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and have a passion for astronomy.
 
