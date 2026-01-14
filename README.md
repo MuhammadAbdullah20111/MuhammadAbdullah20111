@@ -1,13 +1,75 @@
-- 👀 I’m interested in web development, machine learning, and open source.
-- 🌱 I’m currently learning Python, JavaScript, and data analysis.
-- 🤝 I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: 
-  - Email: m.abdullah.asif20111@gmail.com
-  - LinkedIn: www.linkedin.com/in/muhammad-abdullah-web-dev
-- 🏳️ Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and have a passion for astronomy.
+<h2 align="center">About Me</h2>
 
-<!---
-MuhammadAbdullah20111/MuhammadAbdullah20111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <p>Hello, I'm Muhammad Adullah, a full-stack developer.</p>
+  <p>I am currently pursuing a bachelor's degree in computer science from SZABIST Karachi.</p>
+  <p>I am an experienced researcher with a demonstrated history of working in the research industry.</p>
+  <p>I am skilled in web design, web development, cloud software, artificial intelligence, machine learning, and computer vision.</p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
+<h2 align="center">My Activities</h2>
+
+<div align="center">
+  <a a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=MuhammadAbdullah20111&data=followers,repositories,commits&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAbdullah20111&theme=radical&langs_count=10" height="250px" width="49%" />
+  </a>
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAbdullah20111&theme=radical&langs_count=10" height="250px" width="49%" />
+  </a>
+  
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullah20111&theme=radical&langs_count=10&layout=compact&hide_border=true" height="250px" width="49%" />
+  </a>
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAbdullah20111&theme=radical" height="250px" width="49%" />
+  </a>
+  
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdullah20111&theme=radical&show_icons=true&hide_border=true" height="250px" width="49%" />
+  </a>
+  <a href="https://github.com/MuhammadAbdullah20111">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAbdullah20111&theme=radical&hide_border=true" height="250px" width="49%" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">My Tech Stack</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,php,py,c,java,laravel,tailwind,bootstrap,vue,pinia,react,redux,nodejs,express,postgres,mongodb,mysql,aws,flutter,django,flask,discord,docker,git,github,linux,ubuntu,postman,githubactions,kubernetesreactnative&perline=11" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/MuhammadAbdullah20111" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://wa.me/+923437649017" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://burhan.is-great.net" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+</div>
